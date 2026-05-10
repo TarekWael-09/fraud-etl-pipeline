@@ -31,17 +31,11 @@ fact_transactions
 ## Project Structure
 fraud-etl-pipeline/
 ├── README.md
-
 ├── etl/
-
 │   └── fraud_etl.py
-
 ├── dags/
-
 │   └── fraud_etl_dag.py
-
 └── sql/
-
 └── create_tables.sql
 
 ## Results
