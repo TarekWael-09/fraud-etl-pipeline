@@ -29,6 +29,7 @@ fact_transactions
 5. Orchestrate pipeline with Airflow DAG
 
 ## Project Structure
+```
 fraud-etl-pipeline/
 ├── README.md
 ├── etl/
@@ -36,7 +37,8 @@ fraud-etl-pipeline/
 ├── dags/
 │   └── fraud_etl_dag.py
 └── sql/
-└── create_tables.sql
+    └── create_tables.sql
+```
 
 ## Results
 | Metric | Value |
